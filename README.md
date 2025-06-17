@@ -2,6 +2,7 @@
 This is a chess website where people can play against each other online in real time. 
 
 FireChess link: http://nixx.chess.vercel.app/
+(Currently Vercel Server is down for Policy Update)
 
 # Links
 Play a game of chess here - [Live demo](https://nixx.chess.vercel.app) 
